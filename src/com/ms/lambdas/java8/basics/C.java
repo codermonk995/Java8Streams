@@ -1,3 +1,4 @@
+package com.ms.lambdas.java8.basics;
 
 public class C implements A {
 
