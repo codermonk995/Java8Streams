@@ -5,7 +5,7 @@ public class Test {
 		// TODO Auto-generated method stub
 		
 		//A a = new C();
-		A a = () -> System.out.println("inside my method");
+		A a = ()->System.out.println("inside Mymethod");
 		a.myMethod();
 
 	}
